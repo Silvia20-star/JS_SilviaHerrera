@@ -1,0 +1,13 @@
+- Práctica 1
+10
+
+- Práctica 2
+9
+Hay presencia de confusión con respecto a lo que regresa cada función.
+
+- Práctica 4
+10
+
+- Práctica 6
+6
+No sirve porque quieres agregar algo que no existe, y si muevo al línea un par de líneas hacia abajo funciona pero no tiene diseño.
